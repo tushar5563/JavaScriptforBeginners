@@ -8,8 +8,8 @@ console.log(mahek);
 const mahekT=document.getElementsByTagName('li');
 console.log(mahekT);*/
 //query selector and query selector all
-const container=document.querySelector('div');
-console.log(container);
+//const container=document.querySelector('div');
+//console.log(container);
 
 
 
