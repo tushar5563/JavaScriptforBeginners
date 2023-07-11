@@ -1,0 +1,7 @@
+DOM-document object model
+use to  manipulate content style  and structure
+it is one of the most unique and useful tool of javascript
+
+dom manipulation
+GetElementById()-you can select the elemnt using this method byt using this id 
+easiest way to dind html elemnt inside the dom tree
