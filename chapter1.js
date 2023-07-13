@@ -23,4 +23,14 @@ console.log(firstListItem.innerHTML); */
 //modifying attributes & classes
 
 //li.setAttribute('id','main-heading');
-li.removeAttribute('id')
+//li.removeAttribute('id')
+//const title=document.querySelector('#main-heading');
+//console.log(title.getAttribute('id'));
+ 
+//li.classList.add('list-items')
+li.classList.add('list-items')
+console.log(li.classList.contains('list-items'))
+
+
+//Remove elements
+li.remove();
